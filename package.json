@@ -10,6 +10,7 @@
     "test": "jest"
   },
   "dependencies": {
+    "@nestjs/platform-express": "9.4.3",
     "@nestjs/apollo": "^11.0.4",
     "@react-native-async-storage/async-storage": "^1.19.3",
     "@react-native-community/blur": "^4.3.2",
