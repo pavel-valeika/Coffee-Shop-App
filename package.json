@@ -10,6 +10,7 @@
     "test": "jest"
   },
   "dependencies": {
+    "jsonwebtoken": "0.4.0",
     "@nestjs/platform-express": "9.4.3",
     "@nestjs/apollo": "^11.0.5",
     "@react-native-async-storage/async-storage": "^1.19.3",
